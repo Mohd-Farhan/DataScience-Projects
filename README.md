@@ -1,1 +1,1 @@
-# LGMVIP-DataScience
+# DataScience Projects
